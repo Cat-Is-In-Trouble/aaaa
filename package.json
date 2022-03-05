@@ -82,4 +82,7 @@
   },
   "author": "Manav Garg",
   "license": "ISC"
-}
+},
+  "engines": {
+  "node": ">=16.6.0"
+},
