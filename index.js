@@ -468,4 +468,4 @@ function decodeMs(num) {
 		return pms(num);
 	};
 
-bot.login(ConfigVars('TOKEN'))
+bot.login(CLIENT_TOKEN('TOKEN'));
