@@ -467,5 +467,4 @@ function parseMs(str) {
 function decodeMs(num) {
 		return pms(num);
 	};
-  
 bot.login(config('TOKEN'));
